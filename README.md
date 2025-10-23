@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 -->
 
 ![morganyte](img/github-bannerz.png)
+
+
+- 🎓 I’m currently studying at **[Telkom University](https://telkomuniversity.ac.id/)**
+- 🌱 I’m currently learning **[C++](https://www.w3schools.com/cpp/default.asp)** and **[C#](https://www.w3schools.com/cs/index.php)**
+
+---
+
 ![Ryo yamada](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2h6b2E3ZDdmNnNwa3VzamI4YWZhZ2R4OGNlNHRjeWlmc3Rxamg2cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/To1m6F9M8fLcEhul6H/giphy.gif)
 
 ---
