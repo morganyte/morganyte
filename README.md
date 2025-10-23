@@ -1,4 +1,3 @@
-# Welcome to Morganyte's Profile
 
 <!--
 **morganyte/morganyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![morganyte](img/github-header-banner.png)
+![morganyte](img/github-bannerz.png)
 
-- 🌱 I’m currently learning **[C++](https://cplusplus.com/)** and **[C#](https://www.tutorialspoint.com/csharp/index.htm)**
-
-![Ryo yamada](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2h6b2E3ZDdmNnNwa3VzamI4YWZhZ2R4OGNlNHRjeWlmc3Rxamg2cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/To1m6F9M8fLcEhul6H/giphy.gif)
-
+---
 
 ## Social Media :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mfaris_dhs) 
@@ -31,6 +27,11 @@ Here are some ideas to get you started:
 ## GitHub Stats :
 
 ![](https://nirzak-streak-stats.vercel.app/?user=morganyte&theme=dark&hide_border=false)<br/>
+
+---
+
+![Ryo yamada](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2h6b2E3ZDdmNnNwa3VzamI4YWZhZ2R4OGNlNHRjeWlmc3Rxamg2cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/To1m6F9M8fLcEhul6H/giphy.gif)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
