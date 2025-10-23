@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![morganyte](img/github-header-banner.png)
+
 - 🌱 I’m currently learning **[C++](https://cplusplus.com/)** and **[C#](https://www.tutorialspoint.com/csharp/index.htm)**
 
 ![Ryo yamada](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2h6b2E3ZDdmNnNwa3VzamI4YWZhZ2R4OGNlNHRjeWlmc3Rxamg2cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/To1m6F9M8fLcEhul6H/giphy.gif)
