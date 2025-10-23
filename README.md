@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ![morganyte](img/github-bannerz.png)
 
 
-- 🎓 I’m currently studying at **[Telkom University](https://telkomuniversity.ac.id/)**
-- 🌱 I’m currently learning **[C++](https://www.w3schools.com/cpp/default.asp)** and **[C#](https://www.w3schools.com/cs/index.php)**
+- ##### 🎓 I’m currently studying at **[Telkom University](https://telkomuniversity.ac.id/)**
+- ##### 🌱 I’m currently learning **[C++](https://www.w3schools.com/cpp/default.asp)** and **[C#](https://www.w3schools.com/cs/index.php)**
 
 ---
 
