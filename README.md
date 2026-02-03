@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello, I'm FarisMorgan
+## Hello, I'm m0rgan
 
 
 - ##### 🎓 I’m currently studying at **[Telkom University](https://telkomuniversity.ac.id/)**
