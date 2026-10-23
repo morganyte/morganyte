@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 
 - ##### 🎓 I’m currently studying at **[Telkom University](https://telkomuniversity.ac.id/)**
-- ##### 🌱 I’m currently learning **[C++](https://www.w3schools.com/cpp/default.asp)** and **[C#](https://www.w3schools.com/cs/index.php)**
 
 ---
 
@@ -30,7 +29,7 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mfaris_dhs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-faris-dhiyayl-haq-sarbini/)
 ## Tech Skills :
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Godot Engine](https://img.shields.io/badge/godotengine-%23478CBF.svg?style=for-the-badge&logo=godotengine&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![GNOME](https://img.shields.io/badge/GNOME-%234A86CF.svg?style=for-the-badge&logo=gnome&logoColor=white)
 
 
 ---
